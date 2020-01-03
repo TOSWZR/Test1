@@ -6,11 +6,8 @@ public class A {
 		String q="a";
 		System.out.println("脛茫潞脙!");
 		System.out.println("脙鈥灻兟Ｃ偮好兤�!");
-<<<<<<< HEAD
-		System.out.println("sad撒多撒"!");
-=======
 		System.out.println("脙!");
->>>>>>> refs/heads/v2
+		System.out.println("sad撒多撒!");
 
 	}
 }
