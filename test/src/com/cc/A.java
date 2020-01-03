@@ -6,6 +6,7 @@ public class A {
 		String q="a";
 		System.out.println("脛茫潞脙!");
 		System.out.println("脙鈥灻兟Ｃ偮好兤�!");
+		System.out.println("脙!");
 
 	}
 }
